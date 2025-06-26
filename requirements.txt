@@ -1,0 +1,7 @@
+tavily-python
+langchain_community
+langchain_groq
+langgraph
+langchain_tavily
+bs4
+#ipykernel
