@@ -12,4 +12,5 @@ dependencies = [
     "langchain-tavily>=0.2.4",
     "langgraph>=0.4.10",
     "tavily-python>=0.7.8",
+    "wikipedia>=1.4.0",
 ]
